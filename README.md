@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=avZAo1E1RXg
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/avZAo1E1RXg)
 <!--
 **srubakret/srubakret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
